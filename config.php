@@ -1,0 +1,2 @@
+<?php
+  $cookies = "with milk";
